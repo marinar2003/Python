@@ -1,4 +1,3 @@
-#Marina Noelia Revol Gonzalez, DNI= 35258880
 
 #Definimos la funcion datos empleados para obtener los datos sobre nombre y sueldo
 def datos_empleado():
