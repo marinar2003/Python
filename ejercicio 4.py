@@ -1,4 +1,3 @@
-# Marina Revol, DNI 35258880
 
 # El programa permitirá:
 # Cargar películas (título, año, calificación).
